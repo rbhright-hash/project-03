@@ -8,3 +8,5 @@ Practice project for learning:
 - GitHub Actions
 - GHCR
 - Linux Server Deployment
+- ci cd
+
